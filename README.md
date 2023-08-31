@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLProjects
 
 Welcome to MLProjects! This repository is a collection of small machine learning projects that cover a variety of topics and concepts in the field of machine learning. Each project focuses on solving a specific problem and provides an example of how to apply machine learning techniques to real-world scenarios.
@@ -45,3 +46,40 @@ Feel free to use the code, learn from it, and contribute back!
 ---
 
 We hope you enjoy exploring and experimenting with these machine learning projects. If you have any questions or suggestions, feel free to [contact us](safaetjaman@gmail.com).
+=======
+- ## Supervised Learning
+    - ### Classification
+        - Logistic Regression
+        - Support Vector Machine (SVM)
+        - Decision Tree
+        - Random Forest
+        - K-Nearest Neighbors (KNN)
+        - Neural Network
+    - ### Regression
+        - Linear Regression
+        - Polynomial Regression
+        - Ridge Regression
+        - Lasso Regression
+        - Elastic Net Regression
+- ## Unsupervised Learning
+    - ### Clustering
+        - K-Means
+        - Hierarchical Clustering
+        - DBSCAN
+        - Gaussian Mixture Model (GMM)
+    - ### Dimensionality Reduction
+        - Principal Component Analysis (PCA)
+        - Linear Discriminant Analysis (LDA)
+        - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- ## Semi-Supervised Learning
+    - ### Label Propagation
+    - ### Label Spreading
+    - ### Self-Training
+- ## Reinforcement Learning
+    - ### Q-Learning
+    - ### SARSA
+    - ### Deep Q-Network (DQN)
+    - ### Policy Gradient
+
+
+>>>>>>> 9885baa (list all ML algorithm in README.md file)
