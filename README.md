@@ -1,1 +1,35 @@
-# mlprojects
+- ## Supervised Learning
+    - ### Classification
+        - Logistic Regression
+        - Support Vector Machine (SVM)
+        - Decision Tree
+        - Random Forest
+        - K-Nearest Neighbors (KNN)
+        - Neural Network
+    - ### Regression
+        - Linear Regression
+        - Polynomial Regression
+        - Ridge Regression
+        - Lasso Regression
+        - Elastic Net Regression
+- ## Unsupervised Learning
+    - ### Clustering
+        - K-Means
+        - Hierarchical Clustering
+        - DBSCAN
+        - Gaussian Mixture Model (GMM)
+    - ### Dimensionality Reduction
+        - Principal Component Analysis (PCA)
+        - Linear Discriminant Analysis (LDA)
+        - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- ## Semi-Supervised Learning
+    - ### Label Propagation
+    - ### Label Spreading
+    - ### Self-Training
+- ## Reinforcement Learning
+    - ### Q-Learning
+    - ### SARSA
+    - ### Deep Q-Network (DQN)
+    - ### Policy Gradient
+
+
