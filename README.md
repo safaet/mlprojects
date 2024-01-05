@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> 529edbe (add all ML algorithm list)
 # MLProjects
 
 Welcome to MLProjects! This repository is a collection of small machine learning projects that cover a variety of topics and concepts in the field of machine learning. Each project focuses on solving a specific problem and provides an example of how to apply machine learning techniques to real-world scenarios.
@@ -21,6 +24,7 @@ This project focuses on predicting whether a person has diabetes based on certai
 Predicting house prices based on features like square footage, number of bedrooms, etc. This project showcases regression techniques.
 
 [Link to House Price Prediction Project](https://github.com/safaet/mlprojects/tree/main/House_Price_Prediction)
+<<<<<<< HEAD
 
 
 
@@ -89,3 +93,33 @@ We hope you enjoy exploring and experimenting with these machine learning projec
 >>>>>>> 9885baa (list all ML algorithm in README.md file)
 =======
 >>>>>>> origin/main
+=======
+
+
+
+## Getting Started
+
+Each project folder contains its own README with detailed instructions on how to set up and run the project. You'll find information about prerequisites, installation, and usage.
+
+## Contributing
+
+If you have a small machine learning project you'd like to contribute, follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your project: `git checkout -b feature-your-project`.
+3. Add your project's code, data, and a detailed README following the template.
+4. Commit your changes and push to your forked repository.
+5. Create a pull request to the `main` branch of this repository.
+
+We appreciate your contributions to make this repository a valuable resource for the community.
+
+## License
+
+This repository is open-source and available under the [MIT License](https://opensource.org/license/mit/).
+
+Feel free to use the code, learn from it, and contribute back!
+
+---
+
+We hope you enjoy exploring and experimenting with these machine learning projects. If you have any questions or suggestions, feel free to [contact us](safaetjaman@gmail.com).
+>>>>>>> 529edbe (add all ML algorithm list)
