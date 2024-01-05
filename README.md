@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 # MLProjects
 
 Welcome to MLProjects! This repository is a collection of small machine learning projects that cover a variety of topics and concepts in the field of machine learning. Each project focuses on solving a specific problem and provides an example of how to apply machine learning techniques to real-world scenarios.
@@ -46,6 +49,7 @@ Feel free to use the code, learn from it, and contribute back!
 ---
 
 We hope you enjoy exploring and experimenting with these machine learning projects. If you have any questions or suggestions, feel free to [contact us](safaetjaman@gmail.com).
+<<<<<<< HEAD
 =======
 - ## Supervised Learning
     - ### Classification
@@ -83,3 +87,5 @@ We hope you enjoy exploring and experimenting with these machine learning projec
 
 
 >>>>>>> 9885baa (list all ML algorithm in README.md file)
+=======
+>>>>>>> origin/main
